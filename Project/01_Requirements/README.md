@@ -6,10 +6,10 @@
 ### High-Level Requirements
 |  ID|Description|
   |---|---|
-  | HLR01 | Car door must get Lock  |
-  | HLR02 | Car door must Unlock |
-  | HLR03 | Alarm for safety |
-  | HLR04 | Glow these Approach lights for indication |
+  | HLR01 | Range |
+  | HLR02 | Frequency |
+  | HLR03 | Compact integrated ECU |
+  | HLR04 | Security |
   
 ### Low-Level Requirements
 |  ID|Description|
