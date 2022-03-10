@@ -22,7 +22,7 @@
   ## SWOT Analysis
   ### Strength
   * Press button 4 times, All led glows in anticlockwise manner
-  * •	Advance security
+  * Advance security
   ### Weakness
   * Replacing a lost fob costs much more than a traditional key electronic components wear out over time, which then means replacement of either the key or system repair
   ### Opportunities
