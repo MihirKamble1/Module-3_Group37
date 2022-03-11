@@ -6,10 +6,10 @@
 ### High-Level Requirements
 |  ID|Description|
   |---|---|
-  | HLR01 | Range |
-  | HLR02 | Frequency |
-  | HLR03 | Compact integrated ECU |
-  | HLR04 | Securit |
+  | HLR01 | Shall lock the door |
+  | HLR02 | Shall unlock the door |
+  | HLR03 | Shall activate/Deactivate the alarm |
+  | HLR04 | Shall activate approach light |
   
 ### Low-Level Requirements
 |  ID|Description|
