@@ -13,6 +13,3 @@
 
 ## -Low Level UML Use Case Structural Diagram.
 ![Diagram drawio](https://user-images.githubusercontent.com/98813646/157845517-bf9f7c28-1477-4ff7-857e-0faa42eab77f.png)
-
-
-
