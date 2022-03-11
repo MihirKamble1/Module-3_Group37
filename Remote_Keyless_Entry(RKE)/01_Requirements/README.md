@@ -61,17 +61,17 @@ RKE systems employ encryption methods to prevent car thieves from intercepting a
 
 ## 5W's And 1H
 ### Who
-* owner of the vehicle
+* The particular User who owns the car.
 ### What
-* Keyless entry systems are used to remotely lock, unlock and can have various features
+* Its a keyless entry system transmitting RF Signals to the ECU Component to have function over various features.
 ### When
-* Within a range of distance a button is pushed, it provides an programmable signal frequency by radio waves to the receiver unit in the car, which locks or unlocks the door And does the required task.
+* When the user is having an interface between the ECU's the data been transmiited to operate and function the required task.
 ### Where
 * Placed as an ECU component in the Car for the security purpose and using safety precaution to function using contactless interaction with cars 
 ### Why
-* remote keyless entry systems alarm the vehicle against theft and lock and unlock the doors
+* remote keyless entry systems alarm the vehicle against theft and lock and unlock the doors and also provide the contactless access over the major operations in a car.
 ### How
-* Keyless entry to a vehicle is usually attained by sending a radio frequency signal from a remote transmitter to the receiver in the car
+* Keyless entry to a vehicle is usually attained by sending a radio frequency signal from a remote transmitter to the receiver in the car.
 
 ![Untitled](https://user-images.githubusercontent.com/98813646/157856381-a0fc27ac-7b55-4059-a934-db2c102b12ac.png)
 
