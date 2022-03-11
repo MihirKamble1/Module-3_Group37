@@ -12,13 +12,17 @@
   | HLR04 | Shall activate approach light |
   
 ### Low-Level Requirements
-|  ID|Description|
-  |---|---|
-  | LLR01 | Press button 1 time, All led on at the same time   |
-  | LLR02 | Press button 2 time, All led off at the same time |
-  | LLR03 | Press  button 3 time, All led glows in clockwise manner |
-  | LLR04 | Press button 4 times, All led glows in anticlockwise manner |
-  
+| ID | Low Level Requirements for H1|       |ID | Low Level Requirements for H2|
+| -------- | -------------- | ---- |-------- | -------------- |
+| H1L1 | Pressing Blue button once shall make all LEDs glow at once |       |H2L1 | Pressing Blue button twice shall stop all LEDs from glowing at once.|
+     
+
+
+
+| ID | Low Level Requirements for H3|  |ID | Low Level Requirements for H4|
+| -------- | -------------- | ---- | -------- | -------------- |
+| H3L1 | Pressing Blue button thrice shall make all LEDs glow clockwise as shown below|  | H4L1 | Pressing Blue button four times shall make all LEDs glow anti-clockwise as sho
+|H3L1 |GREEN:arrow_right:ORANGE:arrow_right:RED:arrow_right:BLUE |                       |H4L1 | GREEN:arrow_right:BLUE:arrow_right:RED:arrow_right:ORANGE |  
   ## SWOT Analysis
   ### Strength
   * Press button 4 times, All led glows in anticlockwise manner
