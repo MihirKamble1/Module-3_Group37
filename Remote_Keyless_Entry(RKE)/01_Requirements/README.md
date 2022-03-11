@@ -9,7 +9,7 @@
   | HLR01 | Range |
   | HLR02 | Frequency |
   | HLR03 | Compact integrated ECU |
-  | HLR04 | Security |
+  | HLR04 | Securit |
   
 ### Low-Level Requirements
 |  ID|Description|
